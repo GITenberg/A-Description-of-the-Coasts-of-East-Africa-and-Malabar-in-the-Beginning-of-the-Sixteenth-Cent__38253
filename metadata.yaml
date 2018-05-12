@@ -1,0 +1,56 @@
+_repo: A-Description-of-the-Coasts-of-East-Africa-and-Malabar-in-the-Beginning-of-the-Sixteenth-Cent__38253
+_version: 0.1.0
+alternative_title: A Description of the Coasts of East Africa and Malabar in the Beginning
+  of the 16th Century
+contributor:
+  dubious_authors:
+  - agent_name: Barbosa, Duarte
+    deathdate: &id001 1521
+    gutenberg_agent_id: '39351'
+    url: http://www.gutenberg.org/2009/agents/39351
+    wikipedia: http://en.wikipedia.org/wiki/Duarte_Barbosa
+  - agent_name: Magalhães, Fernão de
+    aliases:
+    - De Magalhães, Fernão
+    - Magalhaes, Fernao de
+    - Magellan, Ferdinand
+    - Magallanes, Hernando de
+    - Magallanes, Fernando de
+    - Magellan, Fernand de
+    deathdate: *id001
+    gutenberg_agent_id: '38695'
+    url: http://www.gutenberg.org/2009/agents/38695
+  translator:
+    agent_name: Stanley, Henry Edward John Stanley, Baron
+    alias: Stanley of Alderley, Lord
+    birthdate: 1827
+    deathdate: 1903
+    gutenberg_agent_id: '39352'
+    url: http://www.gutenberg.org/2009/agents/39352
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Stanley,_3rd_Baron_Stanley_of_Alderley
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: Variously attributed to Duarte Barbosa or Fernão de Magalhães.
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38253'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Malabar (India) -- Description and travel'
+- !lcsh 'India -- Description and travel -- Early works to 1800'
+- !lcsh 'China -- Description and travel -- Early works to 1800'
+- !lcsh 'Voyages and travels -- Early works to 1800'
+- !lcsh 'Africa, East -- Description and travel -- Early works to 1800'
+- !lcsh 'Malay Archipelago -- Description and travel'
+- !lcsh 'Iran -- Description and travel -- Early works to 1800'
+- !lcsh 'Arabian Peninsula -- Description and travel'
+- !lcc 'G'
+title: A Description of the Coasts of East Africa and Malabar in the Beginning of
+  the Sixteenth Century
+url: http://www.gutenberg.org/ebooks/38253
