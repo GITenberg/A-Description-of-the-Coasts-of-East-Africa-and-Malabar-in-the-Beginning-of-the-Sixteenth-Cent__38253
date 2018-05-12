@@ -5,7 +5,7 @@ alternative_title: A Description of the Coasts of East Africa and Malabar in the
 contributor:
   dubious_authors:
   - agent_name: Barbosa, Duarte
-    deathdate: &id001 1521
+    deathdate: 1521
     gutenberg_agent_id: '39351'
     url: http://www.gutenberg.org/2009/agents/39351
     wikipedia: http://en.wikipedia.org/wiki/Duarte_Barbosa
@@ -17,7 +17,7 @@ contributor:
     - Magallanes, Hernando de
     - Magallanes, Fernando de
     - Magellan, Fernand de
-    deathdate: *id001
+    deathdate: 1521
     gutenberg_agent_id: '38695'
     url: http://www.gutenberg.org/2009/agents/38695
   translator:
@@ -32,6 +32,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: Variously attributed to Duarte Barbosa or Fernão de Magalhães.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38253#A-Description-of-the-Coasts-of-East-Africa-and-Malabar-in-the-Beginning-of-the-Sixteenth-Cent_
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-12-09'
 gutenberg_type: Text
